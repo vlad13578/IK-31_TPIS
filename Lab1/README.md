@@ -102,3 +102,4 @@ Could not convert data to an type 'float'. Please, enter a floating point number
 Number to Word: zero
 vlads@vlads-VirtualBox:~/tpis/Lab1$ 
 ```
+
